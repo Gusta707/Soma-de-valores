@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Orbitron", serif;
+  background-color: rgb(148, 148, 148);
+}
+
+input{
+    border-radius: 2.5rem;
+}
+
+button {
+    border-radius: 2rem;
+    background-color: rgb(75, 75, 75);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
